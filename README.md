@@ -7,7 +7,7 @@ Este proyecto es un conjunto de aplicaciónes de consola en Python realizado par
 
 ---
 
-# 🧾 Sistema de Gestión de Tickets en Python
+# 🧾 Sistema de Gestión de Tickets
 
 Este proyecto es una aplicación de consola desarrollada en Python que permite gestionar tickets de soporte de forma sencilla. El sistema fue construido en 3 versiones progresivas, mejorando en cada una la forma de almacenar y acceder a los tickets.
 
@@ -78,7 +78,7 @@ El menú principal incluye tres opciones:
 <img alt="Salir" src="Preview\salir.png" width="500" />
 
 ---
-# 🕹️ Tateti en Python (Tres en línea)
+# 🕹️ Tateti (Tres en línea)
 Este es un proyecto simple en Python que implementa el clásico juego Tateti (también conocido como Tres en Línea o Tic-Tac-Toe). 
 
 Permite jugar:
@@ -136,7 +136,7 @@ El tablero se dibujará automáticamente tras cada turno.
 <img alt="Jugador Vs Maquina" src="Preview\tateti-maquina.png" width="500" />
 
 ---
-# Generador de Contraseñas en Python 🔐
+# 🔐 Generador de Contraseñas
 
 Este es un generador de contraseñas escrito en Python que permite al usuario elegir qué tipos de caracteres desea incluir: letras, números y/o caracteres especiales. Las contraseñas se generan utilizando el módulo `secrets`, lo cual garantiza un alto nivel de seguridad y aleatoriedad.
 
