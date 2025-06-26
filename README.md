@@ -169,6 +169,44 @@ Si no se selecciona ningún tipo de carácter, el programa mostrará un error y 
 <img alt="Menu y salir" src="Preview\password-generator.png" width="500" />
 
 ---
+# 🌡️ Conversor de Temperatura (Tkinter)
+
+Este proyecto es una aplicación gráfica simple hecha en Python que permite convertir temperaturas entre Celsius, Fahrenheit y Kelvin. Utiliza `tkinter` y `ttk` para crear una interfaz amigable y moderna.
+
+---
+
+## 🚀 Características
+
+- Conversión entre Celsius, Fahrenheit y Kelvin.
+- Interfaz gráfica intuitiva con `tkinter` y `ttk`.
+- Soporte para valores decimales (puntos o comas).
+- Validación de entrada con mensajes de error personalizados.
+- Evita conversiones innecesarias (misma unidad de origen y destino).
+
+---
+## 💡 Posibles mejoras
+
+- Modo oscuro opcional (usando ttk.Style() o librerías como ttkthemes).
+- Agregar historial de conversiones.
+- Soporte para atajos de teclado.
+- Traducción automática según el idioma del sistema.
+- Gráficos de temperatura (por ejemplo, en tiempo real).
+
+---
+## 🖼️ Cómo se ve
+
+<img alt="Menu Inicio" src="Preview\conversor-temperatura.png" width="500" />
+<img alt="Celcius a Fahrenheit" src="Preview\medida-fahrenheit.png" width="500" />
+<img alt="Celcius a Kelvin" src="Preview\medida-kelvin.png" width="500" />
+
+---
+## ✏️ Autor
+
+**Eros Douglas Benítez Dos Santos**  
+📍 Proyecto Final de Python 
+📅 Año: 2025
+
+---
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
