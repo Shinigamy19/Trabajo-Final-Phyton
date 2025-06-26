@@ -72,6 +72,66 @@ El menú principal incluye tres opciones:
 <img alt="Salir" src="Preview\salir.png" width="500" />
 
 ---
+# 🕹️ Tateti en Python (Tres en línea)
+Este es un proyecto simple en Python que implementa el clásico juego Tateti (también conocido como Tres en Línea o Tic-Tac-Toe). 
+
+Permite jugar:
+
+- Jugador vs Jugador
+
+- Jugador vs Máquina (con movimientos aleatorios)
+
+- Opción para salir del juego
+
+---
+
+## 🧠 Modo de juego
+
+Al iniciar, verás el siguiente menú:
+
+```
+--- TATETI ---
+1. Jugador vs Jugador
+2. Jugador vs Máquina
+3. Salir
+```
+
+Seleccioná una opción e ingresá coordenadas en el formato:
+
+```
+Jugador X, ingresa la fila (0-2): 0
+Jugador X, ingresa la columna (0-2): 1
+```
+
+El tablero se dibujará automáticamente tras cada turno.
+
+---
+
+## 🔧 Características
+
+- Validación de entrada para evitar errores.
+- Tablero gráfico en consola.
+- Lógica completa para detectar ganadores, empates y alternar turnos.
+- Movimiento aleatorio de la máquina usando `randrange`.
+
+---
+
+## 💡 Mejoras sugeridas
+
+- Implementar inteligencia artificial (algoritmo Minimax).
+- Interfaz gráfica con `Tkinter` o `pygame`.
+- Puntaje acumulativo entre partidas.
+
+---
+## 🖼️ Cómo se ve
+
+<img alt="Menu y salir" src="Preview\tateti-menu.png" width="500" />
+<img alt="Jugador Vs Jugador" src="Preview\tateti-jugadores.png" width="500" />
+<img alt="Jugador Vs Maquina" src="Preview\tateti-maquina.png" width="500" />
+
+---
+
+
 ---
 
 <h3 align="center">Mis redes sociales:</h3>
