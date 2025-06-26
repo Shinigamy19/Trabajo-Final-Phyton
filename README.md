@@ -63,6 +63,12 @@ El menú principal incluye tres opciones:
 
 ---
 
+## 💡 Posibles mejoras
+
+- Integración con una base de datos o interfaz gráfica.
+
+---
+
 ## 🖼️ Cómo se ve
 
 <img alt="Menu" src="Preview\menu.png" width="500" />
@@ -116,7 +122,7 @@ El tablero se dibujará automáticamente tras cada turno.
 
 ---
 
-## 💡 Mejoras sugeridas
+## 💡 Posibles mejoras
 
 - Implementar inteligencia artificial (algoritmo Minimax).
 - Interfaz gráfica con `Tkinter` o `pygame`.
@@ -130,7 +136,37 @@ El tablero se dibujará automáticamente tras cada turno.
 <img alt="Jugador Vs Maquina" src="Preview\tateti-maquina.png" width="500" />
 
 ---
+# Generador de Contraseñas en Python 🔐
 
+Este es un generador de contraseñas escrito en Python que permite al usuario elegir qué tipos de caracteres desea incluir: letras, números y/o caracteres especiales. Las contraseñas se generan utilizando el módulo `secrets`, lo cual garantiza un alto nivel de seguridad y aleatoriedad.
+
+---
+
+## 🧠 ¿Cómo funciona?
+
+1. El usuario define la **longitud** de la contraseña.
+2. Elige si desea incluir:
+   - ✅ Letras (mayúsculas y minúsculas)
+   - ✅ Números
+   - ✅ Caracteres especiales
+3. El programa genera una contraseña segura combinando los tipos seleccionados.
+   
+Si no se selecciona ningún tipo de carácter, el programa mostrará un error y se cerrará.
+
+
+---
+## 💡 Posibles mejoras
+
+- Permitir generar múltiples contraseñas de una vez.
+
+- Guardar las contraseñas generadas en un archivo.
+
+- Implementar una interfaz gráfica (GUI) con Tkinter o PyQt.
+
+---
+## 🖼️ Cómo se ve
+
+<img alt="Menu y salir" src="Preview\password-generator.png" width="500" />
 
 ---
 
